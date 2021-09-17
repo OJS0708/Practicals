@@ -1,0 +1,28 @@
+a{
+  font-size: 20px;
+  text-decoration: none;
+  color:#131f20;
+}
+
+body{
+  background-color: #bfd7d9;
+}
+
+h1{
+  background-color: #69a4a2;
+  text-align: center;
+  text-decoration-line: underline;
+  text-decoration-color: #2b4a4a;
+  color: #2b4a4a;
+}
+
+hr{
+  border: 1px dashed #296e6b;
+}
+
+td{
+  background-color: white;
+}
+.thead{
+  background-color: #69a4a2;
+}
